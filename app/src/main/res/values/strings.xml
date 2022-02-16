@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWorkLesson2</string>
+    <string name="second_activity">Second activity</string>
+    <string name="start_number">0</string>
+</resources>
